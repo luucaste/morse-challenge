@@ -1,0 +1,11 @@
+.play-button--container {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.play-button {
+  background-color: unset;
+  border: none;
+  cursor: pointer;
+}
