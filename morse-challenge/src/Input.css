@@ -1,0 +1,22 @@
+.form-group {
+  display: flex;
+  justify-content: center;
+}
+
+.form-control {
+  font-family: unset;
+  font-weight: 800;
+  background-color: #333;
+  border: unset;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  padding: 1rem;
+  color: #757575;
+  width: 100%;
+  margin: 0 1rem;
+  font-size: 1.25rem;
+}
+
+.form-control:focus-visible {
+  outline: none;
+}

@@ -1,0 +1,16 @@
+.output {
+  height: 100px;
+  background-color: #333;
+  color: aqua;
+  margin: 0 1rem;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 1rem;
+  border-top: 1px solid #eee;
+}
+
+.output-text {
+  font-size: 1.25rem;
+  font-weight: 800;
+  margin: 0;
+}
