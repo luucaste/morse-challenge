@@ -7,7 +7,7 @@ Morse Challenge es una webapp que permite a los usuarios traducir texto a códig
 
 Para usar Morse Challenge, seguí estos pasos:
 
-1. Accede a la página de la webapp a través de tu navegador web. Link: 
+1. Accede a la página de la webapp a través de tu navegador web. Link: https://morse-challenge.vercel.app/
 2. Introduce el texto o el código Morse en el cuadro de entrada.
 3. Si querés escuchar el código, clickea en el botón de "play".
 
